@@ -1,4 +1,4 @@
-[Peter Kolawa + Python - logo](https://i.imgur.com/ejZtJNr.jpg)
+![Peter Kolawa + Python - logo](https://i.imgur.com/ejZtJNr.jpg)
 # Unit Tests in Python - level Beginner
 *Introduction to Python Unit Tests*
 

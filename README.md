@@ -1,6 +1,7 @@
+[Peter Kolawa + Python logo](https://i.imgur.com/ejZtJNr/jpg "Peter Kolawa + Python - logo")
 # Unit Tests in Python - level Beginner
 *Introduction to Python Unit Tests*
 
-Unit is a single feature of your code. In the repor you'll learn **how to write unit tests in your Python apps**.
+In this repo you'll learn **how to write UNIT tests in your Python apps**.
 
-Due to *object oriented programming (OOP)* in python every single attribute or method in your classes might be considered as UNIT.
+UNIT is a single feature of your code. Due to *object oriented programming (OOP)* in python every single attribute or method in your classes might be considered as UNIT.
